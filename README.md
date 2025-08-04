@@ -11,9 +11,24 @@ I'm a final year Computer Science Engineering student specializing in Artificial
 
 ## 🚀 Tech Stack & Skills
 
-- **Languages:** Java, JavaScript
+- **Languages:** Python, Java, C, JavaScript
+- **Backend:** Node.js, Express.js
+- **Frontend:** React.js + Vite, TailwindCSS, HTML5, Shadcn UI
+- **Clouds & Databases:** AWS, MySQL, MongoDB
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Vite, HTML5, CSS3, TailwindCSS
 - **Tools & Frameworks:** Postman, Artificial Intelligence, Generative AI
+- **Developer Tools:** VS Code, GitHub, Postman, GenAI
+
+---
+
+
+## 🌟 Featured Projects
+
+- [VDOStream](https://github.com/arpitklu/VDOStream) : A Video calling and chatting app.
+- [AI_Code_Reviewer](https://github.com/arpitklu/AI_Code_Reviewer) : An AI Code Assistant which will help you correct your code.
+- [Google_Drive_Clone](https://github.com/arpitklu/Google_Drive_Clone) : A Google Drive Clone
+- [DSA_Prep](https://github.com/arpitklu/DSA_Prep) : My journey in learning Data Structures and Algorithms for competetive programming.
+- [Web_Dev_Prep](https://github.com/arpitklu/Web_Dev_Prep) : My journey in learning Web Development including both Frontend and Backend.
 
 ---
 
@@ -29,17 +44,6 @@ I'm a final year Computer Science Engineering student specializing in Artificial
 - 🥉 **SGFI East-Zone Badminton Bronze Medalist** (2019)
 
 ---
-
-## 🌟 Featured Projects
-
-- [VDOStream](https://github.com/arpitklu/VDOStream)
-- [AI_Code_Reviewer](https://github.com/arpitklu/AI_Code_Reviewer)
-- [Google_Drive_Clone](https://github.com/arpitklu/Google_Drive_Clone)
-- [DSA_Prep](https://github.com/arpitklu/DSA_Prep)
-- [Web_Dev_Prep](https://github.com/arpitklu/Web_Dev_Prep)
-
----
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitklu&label=Profile%20views&color=0e75b6&style=flat" alt="arpitklu" /> </p>
 
