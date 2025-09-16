@@ -53,7 +53,7 @@ I'm a final year Computer Science Engineering student specializing in Artificial
 
 - 📫 How to reach me **2200032819cseh@gmail.com**
 
-- 📄 Know about me [Resume]([https://drive.google.com/file/d/131wNJaI1pkhsLmbSYCDFSF0EFBov5CtE/view?usp=sharing](https://drive.google.com/file/d/1hfqO83f0SiKbVRMULSTUrx6W-hV-zPuD/view?usp=sharing))
+- 📄 Know about me [Resume]([https://drive.google.com/file/d/131wNJaI1pkhsLmbSYCDFSF0EFBov5CtE/view?usp=sharing](https://drive.google.com/file/d/1hfqO83f0SiKbVRMULSTUrx6W-hV-zPuD/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
