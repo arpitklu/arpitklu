@@ -11,20 +11,22 @@ I'm a final year Computer Science Engineering student specializing in Artificial
 
 ## 🚀 Tech Stack & Skills
 
-- **Languages:** Python, Java, C, JavaScript
+- **Languages:** Python, Java, JavaScript
 - **Backend:** Node.js, Express.js
-- **Frontend:** React.js + Vite, TailwindCSS, HTML5, Shadcn UI
+- **Frontend:** Next.js, React.js + Vite, TailwindCSS, HTML5, Shadcn UI
 - **Clouds & Databases:** AWS, MySQL, MongoDB
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Vite, HTML5, CSS3, TailwindCSS
 - **Tools & Frameworks:** Postman, Artificial Intelligence, Generative AI
-- **Developer Tools:** VS Code, GitHub, Postman, GenAI
+- **Developer Tools:** VS Code, Git, GitHub, Postman, GenAI
+- **System Design**
 
 ---
 
 
 ## 🌟 Featured Projects
 
-- [VDOStream](https://github.com/arpitklu/VDOStream) : A Video calling and chatting app.
+- [FixMyTeeth](https://github.com/arpitklu/FixMyTeeth) : A One-Stop Dental Care Platform. [Website](https://fix-my-teeth.vercel.app/)
+- [VDOStream](https://github.com/arpitklu/VDOStream) : A Video calling and chatting app. [Website](https://vdostream.onrender.com/)
 - [AI_Code_Reviewer](https://github.com/arpitklu/AI_Code_Reviewer) : An AI Code Assistant which will help you correct your code.
 - [Google_Drive_Clone](https://github.com/arpitklu/Google_Drive_Clone) : A Google Drive Clone
 - [DSA_Prep](https://github.com/arpitklu/DSA_Prep) : My journey in learning Data Structures and Algorithms for competetive programming.
@@ -49,11 +51,11 @@ I'm a final year Computer Science Engineering student specializing in Artificial
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitklu" alt="arpitklu" /></a> </p>
 
-- 🔭 I’m currently working on [VDOStream](https://github.com/arpitklu/VDOStream)
+- 🔭 I’m currently working on [FixMyTeeth](https://github.com/arpitklu/FixMyTeeth)
 
 - 📫 How to reach me **2200032819cseh@gmail.com**
 
-- 📄 Know about me [Resume](https://drive.google.com/file/d/1hfqO83f0SiKbVRMULSTUrx6W-hV-zPuD/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/1A4iTd4U4nf9BP_-_C4-v8i1vIMB10JHp/view?usp=sharing)
 
 
 
